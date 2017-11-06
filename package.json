@@ -1,0 +1,15 @@
+{
+  "name": "simple-timing",
+  "version": "1.0.0",
+  "description": "Navigation Timing measurement",
+  "main": "simple-timing.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "performance",
+    "Navigation"
+  ],
+  "author": "Izayoih",
+  "license": "ISC"
+}
